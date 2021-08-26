@@ -1,0 +1,17 @@
+# Inicializar git
+$ git init
+
+# Especificar el repositorio
+$ git remote add origin https://github.com/amkristhian1995/Guardar-y-visualizar-pdf-en-SQLServer.git
+
+$ git checkout -b gh-pages
+
+$ git status
+
+$ git add .
+
+$ git commit -m 'initial commit'
+
+# Publica
+$ git push origin gh-pages
+

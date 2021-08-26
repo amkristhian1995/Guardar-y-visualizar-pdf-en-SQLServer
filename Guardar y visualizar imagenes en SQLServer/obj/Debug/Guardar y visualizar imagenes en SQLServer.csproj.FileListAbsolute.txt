@@ -1,0 +1,12 @@
+K:\Github\Guardar y visualizar imagenes en SQLServer\Guardar y visualizar imagenes en SQLServer\bin\Guardar y visualizar imagenes en SQLServer.dll
+K:\Github\Guardar y visualizar imagenes en SQLServer\Guardar y visualizar imagenes en SQLServer\bin\Guardar y visualizar imagenes en SQLServer.pdb
+K:\Github\Guardar y visualizar imagenes en SQLServer\Guardar y visualizar imagenes en SQLServer\obj\Debug\Guardar y visualizar imagenes en SQLServer.csprojResolveAssemblyReference.cache
+K:\Github\Guardar y visualizar imagenes en SQLServer\Guardar y visualizar imagenes en SQLServer\obj\Debug\Guardar y visualizar imagenes en SQLServer.dll
+K:\Github\Guardar y visualizar imagenes en SQLServer\Guardar y visualizar imagenes en SQLServer\obj\Debug\Guardar y visualizar imagenes en SQLServer.pdb
+D:\Guardar-y-visualizar-imagenes-en-SQLServer-gh-pages\Guardar y visualizar imagenes en SQLServer\bin\Guardar y visualizar imagenes en SQLServer.dll.config
+D:\Guardar-y-visualizar-imagenes-en-SQLServer-gh-pages\Guardar y visualizar imagenes en SQLServer\bin\Guardar y visualizar imagenes en SQLServer.dll
+D:\Guardar-y-visualizar-imagenes-en-SQLServer-gh-pages\Guardar y visualizar imagenes en SQLServer\bin\Guardar y visualizar imagenes en SQLServer.pdb
+D:\Guardar-y-visualizar-imagenes-en-SQLServer-gh-pages\Guardar y visualizar imagenes en SQLServer\obj\Debug\Guardar y visualizar imagenes en SQLServer.csprojAssemblyReference.cache
+D:\Guardar-y-visualizar-imagenes-en-SQLServer-gh-pages\Guardar y visualizar imagenes en SQLServer\obj\Debug\Guardar y visualizar imagenes en SQLServer.csproj.CoreCompileInputs.cache
+D:\Guardar-y-visualizar-imagenes-en-SQLServer-gh-pages\Guardar y visualizar imagenes en SQLServer\obj\Debug\Guardar y visualizar imagenes en SQLServer.dll
+D:\Guardar-y-visualizar-imagenes-en-SQLServer-gh-pages\Guardar y visualizar imagenes en SQLServer\obj\Debug\Guardar y visualizar imagenes en SQLServer.pdb
